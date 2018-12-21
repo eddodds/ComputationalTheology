@@ -1,0 +1,128 @@
+# Ken Fish Nashville Vineyard web site audio files
+
+<div 
+  class="sqs-audio-embed"
+  data-url="http://static1.squarespace.com/static/568e72941c1210854ed81717/t/5bcdf7158165f54177a0e3b7/1540224967241/01+Ken+Friday+Night+1.mp3/original/01+Ken+Friday+Night+1.mp3"
+  data-mime-type=""
+  data-title="Friday Night: Vineyard Inheritance"
+  data-author="Ken Fish"
+  data-show-download="true"
+  data-design-style="minimal"
+  data-duration-in-ms="4596000"
+  data-color-theme="dark"
+
+  
+>
+</div>
+</div></div><div class="sqs-block audio-block sqs-block-audio" data-block-type="41" id="block-yui_3_17_2_1_1544742176007_10994"><div class="sqs-block-content">
+
+<div 
+  class="sqs-audio-embed"
+  data-url="http://static1.squarespace.com/static/568e72941c1210854ed81717/t/5c12e55c21c67c7e94281909/1544742463558/Ken+Fish+12.08+Morn.mp3/original/Ken+Fish+12.08+Morn.mp3"
+  data-mime-type=""
+  data-title="12.08.18 Morning Session"
+  data-author="Ken Fish"
+  data-show-download="false"
+  data-design-style="minimal"
+  data-duration-in-ms="9133000"
+  data-color-theme="dark"
+
+  
+>
+</div>
+</div></div></div><div class="col sqs-col-3 span-3"><div class="sqs-block audio-block sqs-block-audio" data-block-type="41" id="block-yui_3_17_2_1_1540051411240_13426"><div class="sqs-block-content">
+
+<div 
+  class="sqs-audio-embed"
+  data-url="http://static1.squarespace.com/static/568e72941c1210854ed81717/t/5bcdf7d9eef1a1d9e10723e1/1540225307298/01+KF+Saturday+Morning+1.mp3/original/01+KF+Saturday+Morning+1.mp3"
+  data-mime-type=""
+  data-title="Saturday Morning: Theology of The Kingdom"
+  data-author="Ken Fish"
+  data-show-download="true"
+  data-design-style="minimal"
+  data-duration-in-ms="4298000"
+  data-color-theme="dark"
+
+  
+>
+</div>
+</div></div><div class="sqs-block audio-block sqs-block-audio" data-block-type="41" id="block-yui_3_17_2_1_1544742176007_14729"><div class="sqs-block-content">
+
+<div 
+  class="sqs-audio-embed"
+  data-url="http://static1.squarespace.com/static/568e72941c1210854ed81717/t/5c12e83688251b84e472f4a7/1544744848718/NV+Pod+12.08.18+Ken+Mid.mp3/original/NV+Pod+12.08.18+Ken+Mid.mp3"
+  data-mime-type=""
+  data-title="12.08.18 Afternoon Session"
+  data-author="Ken Fish"
+  data-show-download="false"
+  data-design-style="minimal"
+  data-duration-in-ms="10884000"
+  data-color-theme="dark"
+
+  
+>
+</div>
+</div></div></div><div class="col sqs-col-3 span-3"><div class="sqs-block audio-block sqs-block-audio" data-block-type="41" id="block-yui_3_17_2_1_1540051411240_15406"><div class="sqs-block-content">
+
+<div 
+  class="sqs-audio-embed"
+  data-url="http://static1.squarespace.com/static/568e72941c1210854ed81717/t/5bcb79dfe79c7058b9792a11/1540062067844/01+KEN+FISH+Q%26A+1.mp3/original/01+KEN+FISH+Q%26A+1.mp3"
+  data-mime-type=""
+  data-title="Saturday Afternoon: Q&amp;A"
+  data-author="Ken Fish"
+  data-show-download="false"
+  data-design-style="minimal"
+  data-duration-in-ms="7829000"
+  data-color-theme="dark"
+
+  
+>
+</div>
+</div></div><div class="sqs-block audio-block sqs-block-audio" data-block-type="41" id="block-yui_3_17_2_1_1544742176007_18909"><div class="sqs-block-content">
+
+<div 
+  class="sqs-audio-embed"
+  data-url="http://static1.squarespace.com/static/568e72941c1210854ed81717/t/5c131094f950b7929388c43d/1544753522665/NV+Pod+12.08+eve.mp3/original/NV+Pod+12.08+eve.mp3"
+  data-mime-type=""
+  data-title="12.08.18 Evening Session"
+  data-author="Ken Fish"
+  data-show-download="false"
+  data-design-style="minimal"
+  data-duration-in-ms="8859000"
+  data-color-theme="dark"
+
+  
+>
+</div>
+</div></div></div><div class="col sqs-col-3 span-3"><div class="sqs-block audio-block sqs-block-audio" data-block-type="41" id="block-yui_3_17_2_1_1540051411240_9903"><div class="sqs-block-content">
+
+<div 
+  class="sqs-audio-embed"
+  data-url="http://static1.squarespace.com/static/568e72941c1210854ed81717/t/5bcdf92e7817f7a80ba97eb4/1540225724620/01+NV+Pod+5+Step+Healing+Prayer+M+1.mp3/original/01+NV+Pod+5+Step+Healing+Prayer+M+1.mp3"
+  data-mime-type=""
+  data-title="Sunday: 5 Step Healing Prayer Model"
+  data-author="Ken Fish"
+  data-show-download="false"
+  data-design-style="minimal"
+  data-duration-in-ms="4172000"
+  data-color-theme="dark"
+
+  
+>
+</div>
+</div></div><div class="sqs-block audio-block sqs-block-audio" data-block-type="41" id="block-yui_3_17_2_1_1544742176007_23563"><div class="sqs-block-content">
+
+<div 
+  class="sqs-audio-embed"
+  data-url="http://static1.squarespace.com/static/568e72941c1210854ed81717/t/5c1314754d7a9c93cd28e59b/1544754505752/NV+Pod+12.9.18.mp3/original/NV+Pod+12.9.18.mp3"
+  data-mime-type=""
+  data-title="12.09.18 Sunday Morning"
+  data-author="Ken Fish"
+  data-show-download="false"
+  data-design-style="minimal"
+  data-duration-in-ms="2824000"
+  data-color-theme="dark"
+
+  
+>
+</div>
