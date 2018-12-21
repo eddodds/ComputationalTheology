@@ -1,6 +1,6 @@
 # Ken Fish Nashville Vineyard web site audio files
 # linux -> open terminal
-# wget data-url [file and path whuch is between the quotes]
+# wget data-url [file and path which is between the quotes]
 # open mp3 with media player e.g. Banshee, Rythmbox, VLC
 
 <div 
